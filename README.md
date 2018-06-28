@@ -1,0 +1,2 @@
+# lingoe
+Word search algorithms
