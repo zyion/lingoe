@@ -1,0 +1,28 @@
+{
+  "name": "lingoe",
+  "version": "1.0.0",
+  "description": "Word search algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "build": "webpack"
+  },
+  "author": "Zyion",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "webpack": "^4.12.2",
+    "webpack-cli": "^3.0.8"
+  },
+  "keywords": [
+    "words",
+    "dictionary",
+    "levenshtien",
+    "trie"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zyion/lingoe"
+  }
+}
